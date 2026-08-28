@@ -1,13 +1,13 @@
 {
     "items": {
         "/_currency/Credits": {
-            "amount": 2267137,
+            "amount": 2778266,
             "category": "Miscellaneous",
             "name": "Credits",
             "unique_name": "/_currency/Credits"
         },
         "/_currency/Endo": {
-            "amount": 25165,
+            "amount": 29115,
             "category": "Miscellaneous",
             "name": "Endo",
             "unique_name": "/_currency/Endo"
@@ -64,21 +64,21 @@
         "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack": {
             "amount": 1,
             "category": "Archwing",
-            "mastery_rank": 40,
+            "mastery_rank": 41,
             "name": "Itzal",
             "unique_name": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack"
         },
         "/Lotus/Powersuits/Bard/Bard": {
             "amount": 1,
             "category": "Warframes",
-            "mastery_rank": 47,
+            "mastery_rank": 59,
             "name": "Octavia",
             "unique_name": "/Lotus/Powersuits/Bard/Bard"
         },
         "/Lotus/Powersuits/Cowgirl/MesaPrime": {
             "amount": 1,
             "category": "Warframes",
-            "mastery_rank": 128,
+            "mastery_rank": 139,
             "name": "Mesa Prime",
             "unique_name": "/Lotus/Powersuits/Cowgirl/MesaPrime",
             "vaulted": true
@@ -112,7 +112,7 @@
         "/Lotus/Powersuits/Revenant/RevenantPrime": {
             "amount": 1,
             "category": "Warframes",
-            "mastery_rank": 29,
+            "mastery_rank": 66,
             "name": "Revenant Prime",
             "unique_name": "/Lotus/Powersuits/Revenant/RevenantPrime",
             "vaulted": true
@@ -267,7 +267,7 @@
         "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit": {
             "amount": 1,
             "category": "Companions",
-            "mastery_rank": 187,
+            "mastery_rank": 202,
             "name": "Smeeta Kavat",
             "unique_name": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit"
         },
@@ -328,6 +328,14 @@
             "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionBaruukPrimeCBronze",
             "vaulted": true
         },
+        "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFBronze": {
+            "amount": 1,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Lith K12 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFBronze",
+            "vaulted": false
+        },
         "/Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze": {
             "amount": 12,
             "category": "Relics",
@@ -335,6 +343,14 @@
             "name": "Lith S12 Intact",
             "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionGarudaPrimeEBronze",
             "vaulted": true
+        },
+        "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeDBronze": {
+            "amount": 2,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Lith G14 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeDBronze",
+            "vaulted": false
         },
         "/Lotus/Types/Game/Projections/T1VoidProjectionRevenantPrimeCBronze": {
             "amount": 5,
@@ -359,6 +375,30 @@
             "name": "Lith P6 Intact",
             "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionRevenantPrimeEBronze",
             "vaulted": true
+        },
+        "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeABronze": {
+            "amount": 1,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Lith Q3 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeABronze",
+            "vaulted": false
+        },
+        "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeCBronze": {
+            "amount": 1,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Lith V11 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeCBronze",
+            "vaulted": false
+        },
+        "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeEBronze": {
+            "amount": 1,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Lith S18 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeEBronze",
+            "vaulted": false
         },
         "/Lotus/Types/Game/Projections/T2VoidProjectionBaruukPrimeABronze": {
             "amount": 6,
@@ -392,6 +432,14 @@
             "unique_name": "/Lotus/Types/Game/Projections/T2VoidProjectionBaruukPrimeCBronze",
             "vaulted": true
         },
+        "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeABronze": {
+            "amount": 2,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Meso V13 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeABronze",
+            "vaulted": false
+        },
         "/Lotus/Types/Game/Projections/T2VoidProjectionKhoraPrimeCBronze": {
             "amount": 5,
             "category": "Relics",
@@ -423,6 +471,22 @@
             "name": "Meso K4 Intact",
             "unique_name": "/Lotus/Types/Game/Projections/T2VoidProjectionRevenantPrimeDBronze",
             "vaulted": true
+        },
+        "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze": {
+            "amount": 1,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Meso L5 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze",
+            "vaulted": false
+        },
+        "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeCBronze": {
+            "amount": 1,
+            "category": "Relics",
+            "is_stackable": true,
+            "name": "Meso K8 Intact",
+            "unique_name": "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeCBronze",
+            "vaulted": false
         },
         "/Lotus/Types/Game/Projections/T3VoidProjectionBaruukPrimeABronze": {
             "amount": 1,
@@ -504,6 +568,111 @@
             "unique_name": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalOmniA",
             "vaulted": true
         },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEnemyDropItem": {
+            "amount": 76,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Lamentus",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEnemyDropItem"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem": {
+            "amount": 15,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Rune Marrow",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriKullervoDropItem": {
+            "amount": 5,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Kullervo's Bane",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriKullervoDropItem"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA": {
+            "amount": 12,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Kovnik",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemB": {
+            "amount": 4,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Eevani",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemB"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemC": {
+            "amount": 4,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Connla Sprout",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemC"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemD": {
+            "amount": 3,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Yao Shrub",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemD"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE": {
+            "amount": 28,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Silphsela",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemF": {
+            "amount": 17,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Dracroot",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemF"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemG": {
+            "amount": 4,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Ueymag",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemG"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriProcessedItem": {
+            "amount": 34,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Saggen Pearl",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriProcessedItem"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem": {
+            "amount": 114,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Aggristone",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartAItem": {
+            "amount": 22,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Nacreous Pebble",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartAItem"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartBItem": {
+            "amount": 120,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Ariette Scale",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartBItem"
+        },
+        "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartCItem": {
+            "amount": 7,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Maw Fang",
+            "unique_name": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/GenericDuviriFishPartCItem"
+        },
         "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem": {
             "amount": 2,
             "category": "Resources",
@@ -554,7 +723,7 @@
             "unique_name": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem"
         },
         "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag": {
-            "amount": 17,
+            "amount": 19,
             "category": "Resources",
             "is_stackable": true,
             "name": "Intact Sentient Core",
@@ -601,6 +770,34 @@
             "is_stackable": true,
             "name": "Eidolon Shard",
             "unique_name": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardCommonItem"
+        },
+        "/Lotus/Types/Gameplay/EntratiLab/Quest/GargoyleMiscItem": {
+            "amount": 1,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Jahu Gargoyle",
+            "unique_name": "/Lotus/Types/Gameplay/EntratiLab/Quest/GargoyleMiscItem"
+        },
+        "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA": {
+            "amount": 2409,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Entrati Obols",
+            "unique_name": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA"
+        },
+        "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB": {
+            "amount": 52,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Necracoil",
+            "unique_name": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB"
+        },
+        "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem": {
+            "amount": 30,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Stela",
+            "unique_name": "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem"
         },
         "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/EntratiWispItem": {
             "amount": 1,
@@ -687,7 +884,7 @@
             "unique_name": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem"
         },
         "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem": {
-            "amount": 54,
+            "amount": 68,
             "category": "Resources",
             "is_stackable": true,
             "name": "Thrax Plasm",
@@ -715,14 +912,14 @@
             "unique_name": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagRare"
         },
         "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA": {
-            "amount": 46,
+            "amount": 55,
             "category": "Resources",
             "is_stackable": true,
             "name": "Voidgel Orb",
             "unique_name": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA"
         },
         "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB": {
-            "amount": 3,
+            "amount": 6,
             "category": "Resources",
             "is_stackable": true,
             "name": "Entrati Lanthorn",
@@ -1079,14 +1276,14 @@
             "unique_name": "/Lotus/Types/Items/FusionTreasures/OroFusexD"
         },
         "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentA": {
-            "amount": 102,
+            "amount": 107,
             "category": "Resources",
             "is_stackable": true,
             "name": "Ayatan Cyan Star",
             "unique_name": "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentA"
         },
         "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentB": {
-            "amount": 33,
+            "amount": 38,
             "category": "Resources",
             "is_stackable": true,
             "name": "Ayatan Amber Star",
@@ -1317,14 +1514,14 @@
             "unique_name": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem"
         },
         "/Lotus/Types/Items/MiscItems/Alertium": {
-            "amount": 1,
+            "amount": 4,
             "category": "Resources",
             "is_stackable": true,
             "name": "Nitain Extract",
             "unique_name": "/Lotus/Types/Items/MiscItems/Alertium"
         },
         "/Lotus/Types/Items/MiscItems/AlloyPlate": {
-            "amount": 69054,
+            "amount": 71430,
             "category": "Resources",
             "is_stackable": true,
             "name": "Alloy Plate",
@@ -1345,49 +1542,56 @@
             "unique_name": "/Lotus/Types/Items/MiscItems/Beacon"
         },
         "/Lotus/Types/Items/MiscItems/Circuits": {
-            "amount": 73417,
+            "amount": 72486,
             "category": "Resources",
             "is_stackable": true,
             "name": "Circuits",
             "unique_name": "/Lotus/Types/Items/MiscItems/Circuits"
         },
         "/Lotus/Types/Items/MiscItems/ConcentratedGas": {
-            "amount": 641,
+            "amount": 664,
             "category": "Resources",
             "is_stackable": true,
             "name": "Hexenon",
             "unique_name": "/Lotus/Types/Items/MiscItems/ConcentratedGas"
         },
         "/Lotus/Types/Items/MiscItems/ControlModule": {
-            "amount": 222,
+            "amount": 240,
             "category": "Resources",
             "is_stackable": true,
             "name": "Control Module",
             "unique_name": "/Lotus/Types/Items/MiscItems/ControlModule"
         },
         "/Lotus/Types/Items/MiscItems/Cryotic": {
-            "amount": 9520,
+            "amount": 10360,
             "category": "Resources",
             "is_stackable": true,
             "name": "Cryotic",
             "unique_name": "/Lotus/Types/Items/MiscItems/Cryotic"
         },
+        "/Lotus/Types/Items/MiscItems/Elitium": {
+            "amount": 10,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Vitus Essence",
+            "unique_name": "/Lotus/Types/Items/MiscItems/Elitium"
+        },
         "/Lotus/Types/Items/MiscItems/Ferrite": {
-            "amount": 174660,
+            "amount": 170782,
             "category": "Resources",
             "is_stackable": true,
             "name": "Ferrite",
             "unique_name": "/Lotus/Types/Items/MiscItems/Ferrite"
         },
         "/Lotus/Types/Items/MiscItems/Forma": {
-            "amount": 4,
+            "amount": 3,
             "category": "Resources",
             "is_stackable": true,
             "name": "Forma",
             "unique_name": "/Lotus/Types/Items/MiscItems/Forma"
         },
         "/Lotus/Types/Items/MiscItems/Gallium": {
-            "amount": 75,
+            "amount": 73,
             "category": "Resources",
             "is_stackable": true,
             "name": "Gallium",
@@ -1415,7 +1619,7 @@
             "unique_name": "/Lotus/Types/Items/MiscItems/JuggernautPartB"
         },
         "/Lotus/Types/Items/MiscItems/JuggernautPartC": {
-            "amount": 1,
+            "amount": 2,
             "category": "Resources",
             "is_stackable": true,
             "name": "Chitinous Husk",
@@ -1450,35 +1654,35 @@
             "unique_name": "/Lotus/Types/Items/MiscItems/MirageCode"
         },
         "/Lotus/Types/Items/MiscItems/Morphic": {
-            "amount": 142,
+            "amount": 148,
             "category": "Resources",
             "is_stackable": true,
             "name": "Morphics",
             "unique_name": "/Lotus/Types/Items/MiscItems/Morphic"
         },
         "/Lotus/Types/Items/MiscItems/Nanospores": {
-            "amount": 245157,
+            "amount": 254549,
             "category": "Resources",
             "is_stackable": true,
             "name": "Nano Spores",
             "unique_name": "/Lotus/Types/Items/MiscItems/Nanospores"
         },
         "/Lotus/Types/Items/MiscItems/NavCode": {
-            "amount": 579,
+            "amount": 607,
             "category": "Resources",
             "is_stackable": true,
             "name": "Nav Coordinate",
             "unique_name": "/Lotus/Types/Items/MiscItems/NavCode"
         },
         "/Lotus/Types/Items/MiscItems/NeuralSensor": {
-            "amount": 41,
+            "amount": 42,
             "category": "Resources",
             "is_stackable": true,
             "name": "Neural Sensors",
             "unique_name": "/Lotus/Types/Items/MiscItems/NeuralSensor"
         },
         "/Lotus/Types/Items/MiscItems/Neurode": {
-            "amount": 46,
+            "amount": 42,
             "category": "Resources",
             "is_stackable": true,
             "name": "Neurodes",
@@ -1491,15 +1695,22 @@
             "name": "Nora's Mix Vol. 3 Cred",
             "unique_name": "/Lotus/Types/Items/MiscItems/NoraIntermissionSevenCreds"
         },
+        "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds": {
+            "amount": 95,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Amir's Shockwave Cred",
+            "unique_name": "/Lotus/Types/Items/MiscItems/NoraIntermissionSixteenCreds"
+        },
         "/Lotus/Types/Items/MiscItems/OrokinCell": {
-            "amount": 67,
+            "amount": 71,
             "category": "Resources",
             "is_stackable": true,
             "name": "Orokin Cell",
             "unique_name": "/Lotus/Types/Items/MiscItems/OrokinCell"
         },
         "/Lotus/Types/Items/MiscItems/OxiumAlloy": {
-            "amount": 1940,
+            "amount": 1797,
             "category": "Resources",
             "is_stackable": true,
             "name": "Oxium",
@@ -1548,35 +1759,35 @@
             "unique_name": "/Lotus/Types/Items/MiscItems/PhotoboothTileWraithQuestArena"
         },
         "/Lotus/Types/Items/MiscItems/Plastids": {
-            "amount": 15990,
+            "amount": 16707,
             "category": "Resources",
             "is_stackable": true,
             "name": "Plastids",
             "unique_name": "/Lotus/Types/Items/MiscItems/Plastids"
         },
         "/Lotus/Types/Items/MiscItems/PolymerBundle": {
-            "amount": 66113,
+            "amount": 66248,
             "category": "Resources",
             "is_stackable": true,
             "name": "Polymer Bundle",
             "unique_name": "/Lotus/Types/Items/MiscItems/PolymerBundle"
         },
         "/Lotus/Types/Items/MiscItems/RivenFragment": {
-            "amount": 25,
+            "amount": 26,
             "category": "Resources",
             "is_stackable": true,
             "name": "Riven Sliver",
             "unique_name": "/Lotus/Types/Items/MiscItems/RivenFragment"
         },
         "/Lotus/Types/Items/MiscItems/Rubedo": {
-            "amount": 36358,
+            "amount": 37448,
             "category": "Resources",
             "is_stackable": true,
             "name": "Rubedo",
             "unique_name": "/Lotus/Types/Items/MiscItems/Rubedo"
         },
         "/Lotus/Types/Items/MiscItems/Salvage": {
-            "amount": 112810,
+            "amount": 110492,
             "category": "Resources",
             "is_stackable": true,
             "name": "Salvage",
@@ -1597,7 +1808,7 @@
             "unique_name": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue"
         },
         "/Lotus/Types/Items/MiscItems/Tellurium": {
-            "amount": 8,
+            "amount": 6,
             "category": "Resources",
             "is_stackable": true,
             "name": "Tellurium",
@@ -1616,6 +1827,20 @@
             "is_stackable": true,
             "name": "Void Traces",
             "unique_name": "/Lotus/Types/Items/MiscItems/VoidTearDrop"
+        },
+        "/Lotus/Types/Items/MiscItems/WaterFightBucks": {
+            "amount": 393,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Nakak Pearls",
+            "unique_name": "/Lotus/Types/Items/MiscItems/WaterFightBucks"
+        },
+        "/Lotus/Types/Items/MiscItems/WeaponMeleeArcaneUnlocker": {
+            "amount": 1,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Melee Arcane Adapter",
+            "unique_name": "/Lotus/Types/Items/MiscItems/WeaponMeleeArcaneUnlocker"
         },
         "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem": {
             "amount": 2,
@@ -1667,14 +1892,14 @@
             "unique_name": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem"
         },
         "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem": {
-            "amount": 6290,
+            "amount": 6332,
             "category": "Resources",
             "is_stackable": true,
             "name": "Carbides",
             "unique_name": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem"
         },
         "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem": {
-            "amount": 5318,
+            "amount": 5465,
             "category": "Resources",
             "is_stackable": true,
             "name": "Cubic Diodes",
@@ -1730,7 +1955,7 @@
             "unique_name": "/Lotus/Types/Items/Research/BioComponent"
         },
         "/Lotus/Types/Items/Research/BioFragment": {
-            "amount": 276,
+            "amount": 292,
             "category": "Resources",
             "is_stackable": true,
             "name": "Mutagen Sample",
@@ -1744,7 +1969,7 @@
             "unique_name": "/Lotus/Types/Items/Research/ChemComponent"
         },
         "/Lotus/Types/Items/Research/ChemFragment": {
-            "amount": 1134,
+            "amount": 1161,
             "category": "Resources",
             "is_stackable": true,
             "name": "Detonite Ampule",
@@ -1758,7 +1983,7 @@
             "unique_name": "/Lotus/Types/Items/Research/EnergyComponent"
         },
         "/Lotus/Types/Items/Research/EnergyFragment": {
-            "amount": 1691,
+            "amount": 1714,
             "category": "Resources",
             "is_stackable": true,
             "name": "Fieldron Sample",
@@ -1777,6 +2002,13 @@
             "is_stackable": true,
             "name": "Golden Hand Decoration",
             "unique_name": "/Lotus/Types/Items/ShipDecos/CorpusShip/LisetPropHandShrine"
+        },
+        "/Lotus/Types/Items/ShipDecos/DuviriBookQuestReward": {
+            "amount": 1,
+            "category": "Skins",
+            "is_stackable": true,
+            "name": "Tales Of Duviri Storybook",
+            "unique_name": "/Lotus/Types/Items/ShipDecos/DuviriBookQuestReward"
         },
         "/Lotus/Types/Items/ShipDecos/LisetPropCleaningDroneDaybreak": {
             "amount": 1,
@@ -1932,6 +2164,30 @@
             "name": "Defender Insignia",
             "unique_name": "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianUncommonDogTag"
         },
+        "/Lotus/Types/Items/Titles/ClemTitle": {
+            "amount": 1,
+            "category": "Miscellaneous",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Honoria",
+            "unique_name": "/Lotus/Types/Items/Titles/ClemTitle"
+        },
+        "/Lotus/Types/Items/Titles/DuviriKingQuestTitle": {
+            "amount": 1,
+            "category": "Miscellaneous",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Honoria",
+            "unique_name": "/Lotus/Types/Items/Titles/DuviriKingQuestTitle"
+        },
+        "/Lotus/Types/Items/Titles/DuviriQueenQuestTitle": {
+            "amount": 1,
+            "category": "Miscellaneous",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Honoria",
+            "unique_name": "/Lotus/Types/Items/Titles/DuviriQueenQuestTitle"
+        },
         "/Lotus/Types/Items/Titles/FromOnHighTitle": {
             "amount": 1,
             "category": "Miscellaneous",
@@ -2065,6 +2321,20 @@
             "name": "Exemplar Granum Crown",
             "unique_name": "/Lotus/Types/Items/Tokens/GreedTokens/GreedTokenGold"
         },
+        "/Lotus/Types/Items/UnlockArbitrationKeyItem": {
+            "amount": 1,
+            "category": "Resources",
+            "is_stackable": true,
+            "name": "Unlock Arbitrations",
+            "unique_name": "/Lotus/Types/Items/UnlockArbitrationKeyItem"
+        },
+        "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladKeyBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Mutalist Alad V Assassinate Blueprint",
+            "unique_name": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladKeyBlueprint"
+        },
         "/Lotus/Types/Keys/LimboQuest/LimboChassisTheorem": {
             "amount": 1,
             "category": "Resources",
@@ -2093,6 +2363,13 @@
             "name": "Vapor Specter Blueprint",
             "unique_name": "/Lotus/Types/Recipes/Components/BronzeSpectreBlueprint"
         },
+        "/Lotus/Types/Recipes/Components/ClemBallBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Clem Clone Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Components/ClemBallBlueprint"
+        },
         "/Lotus/Types/Recipes/Components/CorruptedLancerBallBlueprint": {
             "amount": 5,
             "category": "Blueprints",
@@ -2100,8 +2377,22 @@
             "name": "Corrupted Lancer Specter Blueprint",
             "unique_name": "/Lotus/Types/Recipes/Components/CorruptedLancerBallBlueprint"
         },
+        "/Lotus/Types/Recipes/Components/FormaAuraBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Omni Forma Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Components/FormaAuraBlueprint"
+        },
+        "/Lotus/Types/Recipes/Components/FormaBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Forma Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Components/FormaBlueprint"
+        },
         "/Lotus/Types/Recipes/Components/GoldSpectreBlueprint": {
-            "amount": 3,
+            "amount": 4,
             "category": "Blueprints",
             "is_stackable": true,
             "name": "Force Specter Blueprint",
@@ -2113,6 +2404,13 @@
             "is_stackable": true,
             "name": "Pherliac Pods Blueprint",
             "unique_name": "/Lotus/Types/Recipes/Components/InfestedBaitBallBlueprint"
+        },
+        "/Lotus/Types/Recipes/Components/OrokinReactorBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Orokin Reactor Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Components/OrokinReactorBlueprint"
         },
         "/Lotus/Types/Recipes/Components/PlatinumSpectreBlueprint": {
             "amount": 4,
@@ -2357,6 +2655,13 @@
             "name": "Chroma Systems Blueprint",
             "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/ChromaSystemsBlueprint"
         },
+        "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Qorvex Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameBlueprint"
+        },
         "/Lotus/Types/Recipes/WarframeRecipes/ExcaliburHelmetBlueprint": {
             "amount": 1,
             "category": "Blueprints",
@@ -2466,12 +2771,26 @@
             "name": "Mag Neuroptics",
             "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/MagHelmetComponent"
         },
+        "/Lotus/Types/Recipes/WarframeRecipes/NecroChassisBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Nekros Chassis Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/NecroChassisBlueprint"
+        },
         "/Lotus/Types/Recipes/WarframeRecipes/NecroHelmetComponent": {
             "amount": 1,
             "category": "Parts",
             "is_stackable": true,
             "name": "Nekros Neuroptics",
             "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/NecroHelmetComponent"
+        },
+        "/Lotus/Types/Recipes/WarframeRecipes/NovaChassisBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Nova Chassis Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/NovaChassisBlueprint"
         },
         "/Lotus/Types/Recipes/WarframeRecipes/NyxHelmetBlueprint": {
             "amount": 3,
@@ -2603,32 +2922,12 @@
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeBlueprint"
         },
-        "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeChassisBlueprint": {
+        "/Lotus/Types/Recipes/WarframeRecipes/WispSystemsBlueprint": {
             "amount": 1,
             "category": "Blueprints",
-            "ducat_price": 65,
             "is_stackable": true,
-            "name": "Wisp Prime Chassis Blueprint",
-            "tradeable_wfm": true,
-            "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeChassisBlueprint"
-        },
-        "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeHelmetBlueprint": {
-            "amount": 1,
-            "category": "Blueprints",
-            "ducat_price": 45,
-            "is_stackable": true,
-            "name": "Wisp Prime Neuroptics Blueprint",
-            "tradeable_wfm": true,
-            "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeHelmetBlueprint"
-        },
-        "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeSystemsBlueprint": {
-            "amount": 1,
-            "category": "Blueprints",
-            "ducat_price": 15,
-            "is_stackable": true,
-            "name": "Wisp Prime Systems Blueprint",
-            "tradeable_wfm": true,
-            "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeSystemsBlueprint"
+            "name": "Wisp Systems Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/WispSystemsBlueprint"
         },
         "/Lotus/Types/Recipes/WarframeRecipes/WraithBlueprint": {
             "amount": 1,
@@ -2683,6 +2982,13 @@
             "name": "Ether Daggers Blueprint",
             "unique_name": "/Lotus/Types/Recipes/Weapons/DualEtherDaggerBlueprint"
         },
+        "/Lotus/Types/Recipes/Weapons/DuviriDualSwordsBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Sun & Moon Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Weapons/DuviriDualSwordsBlueprint"
+        },
         "/Lotus/Types/Recipes/Weapons/GorgonBlueprint": {
             "amount": 3,
             "category": "Blueprints",
@@ -2724,6 +3030,13 @@
             "is_stackable": true,
             "name": "Heat Sword Blueprint",
             "unique_name": "/Lotus/Types/Recipes/Weapons/HeatSwordBlueprint"
+        },
+        "/Lotus/Types/Recipes/Weapons/MireSwordBlueprint": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Mire Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Weapons/MireSwordBlueprint"
         },
         "/Lotus/Types/Recipes/Weapons/ReconnasorBlueprint": {
             "amount": 1,
@@ -2788,6 +3101,20 @@
             "name": "Twin Vipers Wraith Blueprint",
             "unique_name": "/Lotus/Types/Recipes/Weapons/TwinVipersWraithBlueprint"
         },
+        "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonStock": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Corvas Stock Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonStock"
+        },
+        "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHookSwordHandle": {
+            "amount": 1,
+            "category": "Blueprints",
+            "is_stackable": true,
+            "name": "Agkuza Handle Blueprint",
+            "unique_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHookSwordHandle"
+        },
         "/Lotus/Types/Recipes/Weapons/WeaponParts/BrakkBarrel": {
             "amount": 1,
             "category": "Parts",
@@ -2815,6 +3142,13 @@
             "is_stackable": true,
             "name": "Pathocyst Blade",
             "unique_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfBoomerangBlade"
+        },
+        "/Lotus/Types/Recipes/Weapons/WeaponParts/InfBoomerangDisc": {
+            "amount": 1,
+            "category": "Parts",
+            "is_stackable": true,
+            "name": "Pathocyst Subcortex",
+            "unique_name": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfBoomerangDisc"
         },
         "/Lotus/Types/Recipes/Weapons/WeaponParts/MiterBlade": {
             "amount": 1,
@@ -2878,10 +3212,10 @@
             "unique_name": "/Lotus/Types/Sentinels/SentinelPrecepts/Events/CorpusArena/ShieldAuraPrecept"
         },
         "/Lotus/Types/Sentinels/SentinelPrecepts/Ghost": {
-            "amount": 29,
+            "amount": 32,
             "category": "Mods",
             "mod_ranks": {
-                "0": 29
+                "0": 32
             },
             "name": "Ghost",
             "tradeable_wfm": true,
@@ -2898,40 +3232,40 @@
             "unique_name": "/Lotus/Types/Sentinels/SentinelPrecepts/Guardian"
         },
         "/Lotus/Types/Sentinels/SentinelPrecepts/ItemVacum": {
-            "amount": 69,
+            "amount": 70,
             "category": "Mods",
             "mod_ranks": {
-                "0": 69
+                "0": 70
             },
             "name": "Ammo Case",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemVacum"
         },
         "/Lotus/Types/Sentinels/SentinelPrecepts/Regen": {
-            "amount": 82,
+            "amount": 87,
             "category": "Mods",
             "mod_ranks": {
-                "0": 82
+                "0": 87
             },
             "name": "Regen",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Types/Sentinels/SentinelPrecepts/Regen"
         },
         "/Lotus/Types/Sentinels/SentinelPrecepts/Revenge": {
-            "amount": 29,
+            "amount": 31,
             "category": "Mods",
             "mod_ranks": {
-                "0": 29
+                "0": 31
             },
             "name": "Revenge",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Types/Sentinels/SentinelPrecepts/Revenge"
         },
         "/Lotus/Types/Sentinels/SentinelPrecepts/SentinelAttack": {
-            "amount": 13,
+            "amount": 15,
             "category": "Mods",
             "mod_ranks": {
-                "0": 13
+                "0": 15
             },
             "name": "Assault Mode",
             "tradeable_wfm": true,
@@ -2968,10 +3302,10 @@
             "unique_name": "/Lotus/Types/Sentinels/SentinelPrecepts/UniversalVacuum"
         },
         "/Lotus/Types/Sentinels/SentinelPrecepts/Vaporize": {
-            "amount": 6,
+            "amount": 7,
             "category": "Mods",
             "mod_ranks": {
-                "0": 6
+                "0": 7
             },
             "name": "Vaporize",
             "tradeable_wfm": true,
@@ -2983,6 +3317,38 @@
             "mastery_rank": 198,
             "name": "Artax",
             "unique_name": "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin"
+        },
+        "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysErraGlyph": {
+            "amount": 1,
+            "category": "Glyphs",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Community Dog Days Erra Glyph",
+            "unique_name": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysErraGlyph"
+        },
+        "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysGareshGlyph": {
+            "amount": 1,
+            "category": "Glyphs",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Community Dog Days Executioner Garesh Glyph",
+            "unique_name": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysGareshGlyph"
+        },
+        "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysKelaGlyph": {
+            "amount": 1,
+            "category": "Glyphs",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Community Dog Days Kela De Thaym Glyph",
+            "unique_name": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysKelaGlyph"
+        },
+        "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysRusalkaGlyph": {
+            "amount": 1,
+            "category": "Glyphs",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Community Dog Days Rusalka Glyph",
+            "unique_name": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageDogDaysRusalkaGlyph"
         },
         "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGrineerQueensVed": {
             "amount": 1,
@@ -3063,6 +3429,16 @@
             "name": "Valentine",
             "unique_name": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemA"
         },
+        "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped": {
+            "amount": 1,
+            "category": "Arcanes",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Arcane Tanker",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped"
+        },
         "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit": {
             "amount": 1,
             "category": "Arcanes",
@@ -3082,6 +3458,16 @@
             "name": "Arcane Momentum",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit"
+        },
+        "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill": {
+            "amount": 1,
+            "category": "Arcanes",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Arcane Blade Charger",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill"
         },
         "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit": {
             "amount": 1,
@@ -3112,6 +3498,16 @@
             "name": "Molt Efficiency",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/WarframeOnShieldUptimePowerDuration"
+        },
+        "/Lotus/Upgrades/EmpoweredHeavyMelee/TennokaiBaseMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Mentor's Legacy",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/EmpoweredHeavyMelee/TennokaiBaseMod"
         },
         "/Lotus/Upgrades/Focus/AttackLens": {
             "amount": 3,
@@ -3167,6 +3563,16 @@
             "name": "Nebula Bore",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatPunctureStatusMeleeMod"
+        },
+        "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventRadiationCritChanceMeleeMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Critical Meltdown",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventRadiationCritChanceMeleeMod"
         },
         "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventToxinStatusMeleeMod": {
             "amount": 1,
@@ -3461,6 +3867,16 @@
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldRechargeRateMod"
         },
+        "/Lotus/Upgrades/Mods/Aura/EnemyArmorReductionAuraMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Corrosive Projection",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Aura/EnemyArmorReductionAuraMod"
+        },
         "/Lotus/Upgrades/Mods/Aura/PlayerEnergyHealthRegenAuraMod": {
             "amount": 1,
             "category": "Mods",
@@ -3470,6 +3886,16 @@
             "name": "Dreamer's Bond",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Aura/PlayerEnergyHealthRegenAuraMod"
+        },
+        "/Lotus/Upgrades/Mods/Aura/PlayerEnergyRegenAuraMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "5": 1
+            },
+            "name": "Energy Siphon",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Aura/PlayerEnergyRegenAuraMod"
         },
         "/Lotus/Upgrades/Mods/Aura/PlayerHealthAuraMod": {
             "amount": 1,
@@ -3520,6 +3946,16 @@
             "name": "Master Key",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackLockersMod"
+        },
+        "/Lotus/Upgrades/Mods/DualSource/Rifle/ArgonakDaggerMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Amalgam Argonak Metal Auger",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/DualSource/Rifle/ArgonakDaggerMod"
         },
         "/Lotus/Upgrades/Mods/Melee/Channel/ChannelCritsMod": {
             "amount": 1,
@@ -3622,10 +4058,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponCritChanceMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponCritDamageMod": {
-            "amount": 198,
+            "amount": 200,
             "category": "Mods",
             "mod_ranks": {
-                "0": 197,
+                "0": 199,
                 "5": 1
             },
             "name": "Organ Shatter",
@@ -3633,10 +4069,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponCritDamageMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponElectricityDamageMod": {
-            "amount": 40,
+            "amount": 41,
             "category": "Mods",
             "mod_ranks": {
-                "0": 40
+                "0": 41
             },
             "name": "Shocking Touch",
             "tradeable_wfm": true,
@@ -3663,10 +4099,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponFireDamageMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponFireRateMod": {
-            "amount": 40,
+            "amount": 41,
             "category": "Mods",
             "mod_ranks": {
-                "0": 39,
+                "0": 40,
                 "5": 1
             },
             "name": "Fury",
@@ -3674,10 +4110,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponFireRateMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponFreezeDamageMod": {
-            "amount": 34,
+            "amount": 35,
             "category": "Mods",
             "mod_ranks": {
-                "0": 34
+                "0": 35
             },
             "name": "North Wind",
             "tradeable_wfm": true,
@@ -3714,10 +4150,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionDecreaseMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionIncreaseMod": {
-            "amount": 1,
+            "amount": 2,
             "category": "Mods",
             "mod_ranks": {
-                "0": 1
+                "0": 2
             },
             "name": "Rebound",
             "tradeable_wfm": true,
@@ -3744,30 +4180,30 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeArmorShatterMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponMeleeChargeRateMod": {
-            "amount": 32,
+            "amount": 35,
             "category": "Mods",
             "mod_ranks": {
-                "0": 32
+                "0": 35
             },
             "name": "Reflex Coil",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeChargeRateMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponMeleeComboChanceFromDot": {
-            "amount": 2,
+            "amount": 3,
             "category": "Mods",
             "mod_ranks": {
-                "0": 2
+                "0": 3
             },
             "name": "Relentless Combination",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeComboChanceFromDot"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponMeleeDamageMod": {
-            "amount": 118,
+            "amount": 124,
             "category": "Mods",
             "mod_ranks": {
-                "0": 117,
+                "0": 123,
                 "5": 1
             },
             "name": "Pressure Point",
@@ -3785,10 +4221,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageCorpus"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageGrineer": {
-            "amount": 22,
+            "amount": 23,
             "category": "Mods",
             "mod_ranks": {
-                "0": 22
+                "0": 23
             },
             "name": "Smite Grineer",
             "tradeable_wfm": true,
@@ -3826,10 +4262,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeHeavyDamageMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponMeleeRangeIncMod": {
-            "amount": 74,
+            "amount": 80,
             "category": "Mods",
             "mod_ranks": {
-                "0": 74
+                "0": 80
             },
             "name": "Reach",
             "tradeable_wfm": true,
@@ -3846,10 +4282,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponPowerDamageMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponProcTimeMod": {
-            "amount": 35,
+            "amount": 37,
             "category": "Mods",
             "mod_ranks": {
-                "0": 35
+                "0": 37
             },
             "name": "Lasting Sting",
             "tradeable_wfm": true,
@@ -3866,10 +4302,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponSlashDamageMod"
         },
         "/Lotus/Upgrades/Mods/Melee/WeaponStunChanceMod": {
-            "amount": 142,
+            "amount": 146,
             "category": "Mods",
             "mod_ranks": {
-                "0": 142
+                "0": 146
             },
             "name": "Melee Prowess",
             "tradeable_wfm": true,
@@ -3978,20 +4414,20 @@
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/ThrowingExplosionChanceMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponAmmoMaxMod": {
-            "amount": 38,
+            "amount": 40,
             "category": "Mods",
             "mod_ranks": {
-                "0": 38
+                "0": 40
             },
             "name": "Trick Mag",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponAmmoMaxMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponArmorPiercingDamageMod": {
-            "amount": 25,
+            "amount": 27,
             "category": "Mods",
             "mod_ranks": {
-                "0": 25
+                "0": 27
             },
             "name": "No Return",
             "tradeable_wfm": true,
@@ -4008,10 +4444,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponClipMaxMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponCritChanceMod": {
-            "amount": 64,
+            "amount": 66,
             "category": "Mods",
             "mod_ranks": {
-                "0": 63,
+                "0": 65,
                 "5": 1
             },
             "name": "Pistol Gambit",
@@ -4041,10 +4477,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponDamageAmountMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponElectricityDamageMod": {
-            "amount": 51,
+            "amount": 52,
             "category": "Mods",
             "mod_ranks": {
-                "0": 51
+                "0": 52
             },
             "name": "Convulsion",
             "tradeable_wfm": true,
@@ -4061,10 +4497,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponEventSlashDamageMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponFireDamageMod": {
-            "amount": 25,
+            "amount": 28,
             "category": "Mods",
             "mod_ranks": {
-                "0": 25
+                "0": 28
             },
             "name": "Heated Charge",
             "tradeable_wfm": true,
@@ -4101,20 +4537,20 @@
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponFreezeDamageMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponImpactDamageMod": {
-            "amount": 23,
+            "amount": 24,
             "category": "Mods",
             "mod_ranks": {
-                "0": 23
+                "0": 24
             },
             "name": "Concussion Rounds",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponImpactDamageMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponNoiseReductionMod": {
-            "amount": 25,
+            "amount": 26,
             "category": "Mods",
             "mod_ranks": {
-                "0": 25
+                "0": 26
             },
             "name": "Suppress",
             "tradeable_wfm": true,
@@ -4131,10 +4567,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorrupted"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageInfested": {
-            "amount": 20,
+            "amount": 21,
             "category": "Mods",
             "mod_ranks": {
-                "0": 20
+                "0": 21
             },
             "name": "Expel Infested",
             "tradeable_wfm": true,
@@ -4181,20 +4617,20 @@
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPunctureDepthMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponReloadSpeedMod": {
-            "amount": 88,
+            "amount": 89,
             "category": "Mods",
             "mod_ranks": {
-                "0": 88
+                "0": 89
             },
             "name": "Quickdraw",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponReloadSpeedMod"
         },
         "/Lotus/Upgrades/Mods/Pistol/WeaponSlashDamageMod": {
-            "amount": 17,
+            "amount": 18,
             "category": "Mods",
             "mod_ranks": {
-                "0": 17
+                "0": 18
             },
             "name": "Razor Shot",
             "tradeable_wfm": true,
@@ -4219,6 +4655,26 @@
             "name": "Pathogen Rounds",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponToxinDamageMod"
+        },
+        "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HigherAirAimFoVShotgunMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Broad Eye",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HigherAirAimFoVShotgunMod"
+        },
+        "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HolsterSpeedBonusMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Soft Hands",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HolsterSpeedBonusMod"
         },
         "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipAttractorAbilityCard": {
             "amount": 3,
@@ -4530,6 +4986,16 @@
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/FireRateWhileAimingRifleMod"
         },
+        "/Lotus/Upgrades/Mods/Rifle/SniperHeadshotMultiplierMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Target Acquired",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Rifle/SniperHeadshotMultiplierMod"
+        },
         "/Lotus/Upgrades/Mods/Rifle/SniperReloadDamageMod": {
             "amount": 6,
             "category": "Mods",
@@ -4541,10 +5007,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/SniperReloadDamageMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponAmmoMaxMod": {
-            "amount": 87,
+            "amount": 88,
             "category": "Mods",
             "mod_ranks": {
-                "0": 87
+                "0": 88
             },
             "name": "Ammo Drum",
             "tradeable_wfm": true,
@@ -4591,20 +5057,20 @@
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponBowConvertAmmoMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponClipMaxMod": {
-            "amount": 53,
+            "amount": 54,
             "category": "Mods",
             "mod_ranks": {
-                "0": 53
+                "0": 54
             },
             "name": "Magazine Warp",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponClipMaxMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponCritChanceMod": {
-            "amount": 69,
+            "amount": 72,
             "category": "Mods",
             "mod_ranks": {
-                "0": 68,
+                "0": 71,
                 "5": 1
             },
             "name": "Point Strike",
@@ -4684,10 +5150,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFireIterationsMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponFireRateMod": {
-            "amount": 37,
+            "amount": 39,
             "category": "Mods",
             "mod_ranks": {
-                "0": 37
+                "0": 39
             },
             "name": "Speed Trigger",
             "tradeable_wfm": true,
@@ -4704,10 +5170,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFreezeDamageMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponImpactDamageMod": {
-            "amount": 95,
+            "amount": 100,
             "category": "Mods",
             "mod_ranks": {
-                "0": 95
+                "0": 100
             },
             "name": "Rupture",
             "tradeable_wfm": true,
@@ -4734,10 +5200,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponNoiseReductionMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponProcTimeMod": {
-            "amount": 2,
+            "amount": 3,
             "category": "Mods",
             "mod_ranks": {
-                "0": 2
+                "0": 3
             },
             "name": "Continuous Misery",
             "tradeable_wfm": true,
@@ -4774,10 +5240,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponRecoilReductionMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponReloadSpeedMod": {
-            "amount": 13,
+            "amount": 15,
             "category": "Mods",
             "mod_ranks": {
-                "0": 13
+                "0": 15
             },
             "name": "Fast Hands",
             "tradeable_wfm": true,
@@ -4804,10 +5270,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponStunChanceMod"
         },
         "/Lotus/Upgrades/Mods/Rifle/WeaponToxinDamageMod": {
-            "amount": 47,
+            "amount": 48,
             "category": "Mods",
             "mod_ranks": {
-                "0": 47
+                "0": 48
             },
             "name": "Infected Clip",
             "tradeable_wfm": true,
@@ -4895,10 +5361,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Sentinel/SentinelDropChanceMod"
         },
         "/Lotus/Upgrades/Mods/Sentinel/SentinelHealthMaxMod": {
-            "amount": 3,
+            "amount": 4,
             "category": "Mods",
             "mod_ranks": {
-                "0": 2,
+                "0": 3,
                 "6": 1
             },
             "name": "Enhanced Vitality",
@@ -4916,20 +5382,20 @@
             "unique_name": "/Lotus/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarMod"
         },
         "/Lotus/Upgrades/Mods/Sentinel/SentinelRepairKitMod": {
-            "amount": 15,
+            "amount": 16,
             "category": "Mods",
             "mod_ranks": {
-                "0": 15
+                "0": 16
             },
             "name": "Repair Kit",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Sentinel/SentinelRepairKitMod"
         },
         "/Lotus/Upgrades/Mods/Sentinel/SentinelShieldMaxMod": {
-            "amount": 23,
+            "amount": 25,
             "category": "Mods",
             "mod_ranks": {
-                "0": 22,
+                "0": 24,
                 "6": 1
             },
             "name": "Calculated Redirection",
@@ -5057,6 +5523,16 @@
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Sets/Gladiator/WarframeGladiatorResolveMod"
         },
+        "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModC": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Aero Periphery",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModC"
+        },
         "/Lotus/Upgrades/Mods/Sets/Mecha/KubrowMechaOverdriveMod": {
             "amount": 5,
             "category": "Mods",
@@ -5086,6 +5562,26 @@
             "name": "Sacrificial Steel",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Sets/Sacrifice/MeleeSacrificeModB"
+        },
+        "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModA": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Proton Pulse",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModA"
+        },
+        "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModB": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Proton Jet",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModB"
         },
         "/Lotus/Upgrades/Mods/Sets/Synth/PistolSynthChargeMod": {
             "amount": 3,
@@ -5257,6 +5753,16 @@
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod"
         },
+        "/Lotus/Upgrades/Mods/Shotgun/DualStat/RadiationClipShotgunMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Atomic Fallout",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/RadiationClipShotgunMod"
+        },
         "/Lotus/Upgrades/Mods/Shotgun/DualStat/ReloadSpeedPunchThroughMod": {
             "amount": 1,
             "category": "Mods",
@@ -5308,10 +5814,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritChanceMod"
         },
         "/Lotus/Upgrades/Mods/Shotgun/WeaponCritDamageMod": {
-            "amount": 4,
+            "amount": 5,
             "category": "Mods",
             "mod_ranks": {
-                "0": 4
+                "0": 5
             },
             "name": "Ravage",
             "tradeable_wfm": true,
@@ -5468,10 +5974,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageInfested"
         },
         "/Lotus/Upgrades/Mods/Shotgun/WeaponSlashDamageMod": {
-            "amount": 16,
+            "amount": 17,
             "category": "Mods",
             "mod_ranks": {
-                "0": 16
+                "0": 17
             },
             "name": "Shredder",
             "tradeable_wfm": true,
@@ -5541,10 +6047,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarAbilityStrengthMod"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarArmourMod": {
-            "amount": 41,
+            "amount": 42,
             "category": "Mods",
             "mod_ranks": {
-                "0": 41
+                "0": 42
             },
             "name": "Steel Fiber",
             "tradeable_wfm": true,
@@ -5571,20 +6077,20 @@
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageReductionInAir"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceElectricity": {
-            "amount": 30,
+            "amount": 32,
             "category": "Mods",
             "mod_ranks": {
-                "0": 30
+                "0": 32
             },
             "name": "Lightning Rod",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceElectricity"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceFire": {
-            "amount": 25,
+            "amount": 26,
             "category": "Mods",
             "mod_ranks": {
-                "0": 25
+                "0": 26
             },
             "name": "Flame Repellent",
             "tradeable_wfm": true,
@@ -5611,10 +6117,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceKnockdown"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceLaser": {
-            "amount": 28,
+            "amount": 30,
             "category": "Mods",
             "mod_ranks": {
-                "0": 28
+                "0": 30
             },
             "name": "Diamond Skin",
             "tradeable_wfm": true,
@@ -5629,6 +6135,16 @@
             "name": "Enemy Sense",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarEnemyRadarMod"
+        },
+        "/Lotus/Upgrades/Mods/Warframe/AvatarEnergyRegenMod": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Energy Nexus",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarEnergyRegenMod"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarFallingImpactMod": {
             "amount": 19,
@@ -5651,10 +6167,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarGroundFireDmgMod"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarHealthMaxMod": {
-            "amount": 43,
+            "amount": 51,
             "category": "Mods",
             "mod_ranks": {
-                "0": 42,
+                "0": 50,
                 "8": 1
             },
             "name": "Vitality",
@@ -5683,20 +6199,20 @@
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarLootRadarMod"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarMissionSpecificResistanceIce": {
-            "amount": 13,
+            "amount": 14,
             "category": "Mods",
             "mod_ranks": {
-                "0": 13
+                "0": 14
             },
             "name": "Warm Coat",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarMissionSpecificResistanceIce"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarParryMeleeMod": {
-            "amount": 9,
+            "amount": 10,
             "category": "Mods",
             "mod_ranks": {
-                "0": 9
+                "0": 10
             },
             "name": "Parry",
             "tradeable_wfm": true,
@@ -5746,10 +6262,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarProcTimeMod"
         },
         "/Lotus/Upgrades/Mods/Warframe/AvatarShieldMaxMod": {
-            "amount": 34,
+            "amount": 37,
             "category": "Mods",
             "mod_ranks": {
-                "0": 33,
+                "0": 36,
                 "8": 1
             },
             "name": "Redirection",
@@ -5818,10 +6334,10 @@
             "unique_name": "/Lotus/Upgrades/Mods/Warframe/ParkourTwoMod"
         },
         "/Lotus/Upgrades/Mods/Warframe/PunctureParkourTwoMod": {
-            "amount": 1,
+            "amount": 3,
             "category": "Mods",
             "mod_ranks": {
-                "0": 1
+                "0": 3
             },
             "name": "Piercing Step",
             "tradeable_wfm": true,
@@ -6157,6 +6673,14 @@
             "name": "Phorid Sigil",
             "unique_name": "/Lotus/Upgrades/Skins/Sigils/BossSigilPhorid"
         },
+        "/Lotus/Upgrades/Skins/Sigils/BossSigilRaptor": {
+            "amount": 1,
+            "category": "Sigils",
+            "is_flavour": true,
+            "is_stackable": true,
+            "name": "Raptor Sigil",
+            "unique_name": "/Lotus/Upgrades/Skins/Sigils/BossSigilRaptor"
+        },
         "/Lotus/Upgrades/Skins/Sigils/BossSigilSargusRuk": {
             "amount": 1,
             "category": "Sigils",
@@ -6278,7 +6802,7 @@
         "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive": {
             "amount": 1,
             "category": "Melee",
-            "mastery_rank": 211,
+            "mastery_rank": 215,
             "name": "Xoris",
             "unique_name": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGhostCatcherGlaive/CrpGhostCatcherGlaive"
         },
@@ -6318,6 +6842,7 @@
         "/Lotus/Weapons/Grineer/Melee/GrnQueenSceptre/GrnQueenSceptreWeapon": {
             "amount": 1,
             "category": "Melee",
+            "mastery_rank": 3,
             "name": "Broken Scepter",
             "unique_name": "/Lotus/Weapons/Grineer/Melee/GrnQueenSceptre/GrnQueenSceptreWeapon"
         },
@@ -6345,7 +6870,7 @@
         "/Lotus/Weapons/Operator/Pistols/DrifterPistol/DrifterPistolPlayerWeapon": {
             "amount": 1,
             "category": "Operator Weapons",
-            "mastery_rank": 13,
+            "mastery_rank": 14,
             "name": "Sirocco",
             "unique_name": "/Lotus/Weapons/Operator/Pistols/DrifterPistol/DrifterPistolPlayerWeapon"
         },
@@ -6370,7 +6895,7 @@
         "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon": {
             "amount": 1,
             "category": "Archwing",
-            "mastery_rank": 37,
+            "mastery_rank": 38,
             "name": "Veritux",
             "unique_name": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon"
         },
@@ -6391,7 +6916,7 @@
         "/Lotus/Weapons/Tenno/Bows/Omicrus/OmicrusPlayerWep": {
             "amount": 1,
             "category": "Primary",
-            "mastery_rank": 38,
+            "mastery_rank": 54,
             "name": "Nataruk",
             "unique_name": "/Lotus/Weapons/Tenno/Bows/Omicrus/OmicrusPlayerWep"
         },
@@ -6401,6 +6926,13 @@
             "mastery_rank": 12,
             "name": "Dread",
             "unique_name": "/Lotus/Weapons/Tenno/Bows/StalkerBow"
+        },
+        "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire": {
+            "amount": 1,
+            "category": "Secondary",
+            "mastery_rank": 45,
+            "name": "Grimoire",
+            "unique_name": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire"
         },
         "/Lotus/Weapons/Tenno/Melee/Hammer/HammerWeapon": {
             "amount": 1,
@@ -6429,6 +6961,16 @@
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbThreeMeleeTree"
         },
+        "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualKatanaCmbOneMeleeTree": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Mountain's Edge",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualKatanaCmbOneMeleeTree"
+        },
         "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbOneMeleeTree": {
             "amount": 2,
             "category": "Mods",
@@ -6450,20 +6992,20 @@
             "unique_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree"
         },
         "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree": {
-            "amount": 36,
+            "amount": 38,
             "category": "Mods",
             "mod_ranks": {
-                "0": 36
+                "0": 38
             },
             "name": "Fracturing Wind",
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree"
         },
         "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbThreeMeleeTree": {
-            "amount": 5,
+            "amount": 6,
             "category": "Mods",
             "mod_ranks": {
-                "0": 5
+                "0": 6
             },
             "name": "Gaia's Tragedy",
             "tradeable_wfm": true,
@@ -6559,6 +7101,16 @@
             "tradeable_wfm": true,
             "unique_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree"
         },
+        "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree": {
+            "amount": 1,
+            "category": "Mods",
+            "mod_ranks": {
+                "0": 1
+            },
+            "name": "Eleventh Storm",
+            "tradeable_wfm": true,
+            "unique_name": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree"
+        },
         "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordWhipCmbOneMeleeTree": {
             "amount": 1,
             "category": "Mods",
@@ -6592,7 +7144,7 @@
         "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon": {
             "amount": 1,
             "category": "Melee",
-            "mastery_rank": 65,
+            "mastery_rank": 70,
             "name": "Orthos",
             "unique_name": "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon"
         },
@@ -6626,6 +7178,7 @@
         "/Lotus/Weapons/Tenno/Rifle/BoltoRifle": {
             "amount": 1,
             "category": "Primary",
+            "mastery_rank": 33,
             "name": "Boltor",
             "unique_name": "/Lotus/Weapons/Tenno/Rifle/BoltoRifle"
         },
